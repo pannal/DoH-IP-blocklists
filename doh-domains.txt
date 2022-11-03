@@ -74,7 +74,6 @@ dns.ndo.dev
 dns.nextdns.io
 dns.njal.la
 dns.oszx.co
-dns.paesa.es
 dns.pub
 dns.quad9.net
 dns.rubyfish.cn
@@ -262,7 +261,6 @@ query.hdns.io
 rdns.faelix.net
 resolver-eu.lelux.fi
 resolver4.dns.openinternet.io
-rethinkdns.com
 rpz-public-resolver1.rrdns.pch.net
 ru-mow.doh.sb
 rumpelsepp.org
