@@ -4,7 +4,6 @@ a.passcloud.xyz
 adblock.doh.mullvad.net
 adfree.usableprivacy.net
 anycast.uncensoreddns.org
-arashi.eu.org
 asia.dnscepat.id
 au-syd.doh.sb
 berd.moe
