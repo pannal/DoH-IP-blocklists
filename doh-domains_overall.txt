@@ -6,16 +6,12 @@ adblock.mydns.network
 adfree.usableprivacy.net
 anycast.uncensoreddns.org
 anydoh.sidnlabs.nl
-arashi.eu.org
 asia.dnscepat.id
 au-syd.doh.sb
-basic.bravedns.com
-basic.rethinkdns.com
 berd.moe
 bld.sys-adm.in
 blitz-setup.ahadns.com
 blitz.ahadns.com
-bravedns.com
 ca-yyc.doh.sb
 canadianshield.cira.ca
 chewbacca.meganerd.nl
@@ -92,7 +88,6 @@ dns.nixnet.xyz
 dns.njal.la
 dns.onp.cloud
 dns.oszx.co
-dns.paesa.es
 dns.post-factum.tk
 dns.pub
 dns.pumplex.com
@@ -233,7 +228,6 @@ family.cloudflare-dns.com
 fi.doh.dns.snopyta.org
 firefox.dns.nextdns.io
 fr1.dnswarden.com
-free.bravedns.com
 freedns.controld.com
 freedom.mydns.network
 google-public-dns-a.google.com
@@ -300,7 +294,6 @@ query.hdns.io
 rdns.faelix.net
 resolver-eu.lelux.fi
 resolver4.dns.openinternet.io
-rethinkdns.com
 rpz-public-resolver1.rrdns.pch.net
 ru-mow.doh.sb
 rumpelsepp.org
