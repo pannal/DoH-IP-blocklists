@@ -1,6 +1,5 @@
 1dot1dot1dot1.cloudflare-dns.com
 8888.google
-a.passcloud.xyz
 adblock.doh.mullvad.net
 adfree.usableprivacy.net
 anycast.uncensoreddns.org
@@ -10,7 +9,6 @@ berd.moe
 bld.sys-adm.in
 blitz-setup.ahadns.com
 blitz.ahadns.com
-bravedns.com
 ca-yyc.doh.sb
 chewbacca.meganerd.nl
 chrome.cloudflare-dns.com
@@ -205,9 +203,7 @@ helios.plan9-dns.com
 hitian.me
 hk-hkg.doh.sb
 httpdns-push.heytapmobile.com
-hydroxlab.ru.com
 i.233py.com
-i.passcloud.xyz
 ibksturm.synology.me
 ibuki.cgnat.net
 id.terra.my.id
@@ -215,7 +211,6 @@ in-blr.doh.sb
 ipoac.nl
 jabber-germany.de
 jcdns.fun
-jit.ddns.net
 jp-kix.doh.sb
 jp-nrt.doh.sb
 jp.tiar.app
@@ -270,7 +265,6 @@ sg-sin.doh.sb
 sg.adhole.org
 sg1.dnswarden.com
 tor.cloudflare-dns.com
-tundranet.hec.to
 uk-lon.doh.sb
 uk.adhole.org
 unfiltered.adguard-dns.com
@@ -284,5 +278,4 @@ wdns.233py.com
 www.jabber-germany.de
 www.masters-of-cloud.de
 www.morbitzer.de
-xorbiadns.com
 yarp.lefolgoc.net
